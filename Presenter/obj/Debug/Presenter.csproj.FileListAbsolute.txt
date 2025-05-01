@@ -1,0 +1,100 @@
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Database2.mdf
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Database2_log.ldf
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Presenter.exe.config
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Presenter.exe
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\3_Практическая работа 1.exe
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Business Logic.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ClassLibrary1.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Ninject.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Shared.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.Helpers.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.Mvc.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.Razor.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.WebPages.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\DataAccessLayer.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\EntityFramework.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Dapper.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\3_Практическая работа 1.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\3_Практическая работа 1.exe.config
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Business Logic.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ClassLibrary1.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Shared.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Ninject.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.Helpers.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.Mvc.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.Razor.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.WebPages.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\DataAccessLayer.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\EntityFramework.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Dapper.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\obj\Debug\Presenter.csproj.Up2Date
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\obj\Debug\Presenter.exe
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\obj\Debug\Presenter.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Business Logic.dll.config
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\Shared.dll.config
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ConsoleApp2.exe
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ConsoleTables.dll
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ConsoleApp2.pdb
+C:\Users\Алиса\OneDrive\Рабочий стол\учеба\С#\3_практическая работа_4\Presenter\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Database2.mdf
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Database2_log.ldf
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Presenter.exe.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Presenter.exe
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\3_Практическая работа 1.exe
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Business Logic.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ClassLibrary1.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ConsoleApp2.exe
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\EntityFramework.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Ninject.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Shared.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.Helpers.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.Mvc.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.Razor.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.WebPages.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\DataAccessLayer.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ConsoleTables.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Dapper.dll
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\3_Практическая работа 1.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\3_Практическая работа 1.exe.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Business Logic.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Business Logic.dll.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ClassLibrary1.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ConsoleApp2.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Shared.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Shared.dll.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\EntityFramework.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Ninject.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.Helpers.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.Mvc.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.Razor.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.WebPages.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\DataAccessLayer.pdb
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\bin\Debug\Dapper.xml
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\obj\Debug\Presenter.csproj.Up2Date
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\obj\Debug\Presenter.exe
+C:\Users\Кира\source\repos\АИС\lab 4\Presenter\obj\Debug\Presenter.pdb
